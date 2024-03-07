@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YoloV8/data5/train/images
+val: /content/drive/MyDrive/YoloV8/data5/val/images
+
+nc: 6
+names: ['0', '1', '2', '3', '4','pothole']
